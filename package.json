@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-fill-murray-sagaban",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
@@ -41,7 +41,8 @@
     "ember-addon"
   ],
   "dependencies": {
-    "ember-cli-babel": "^5.0.0"
+    "ember-cli-babel": "^5.0.0",
+    "ember-cli-htmlbars": "0.7.9"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"

@@ -1,5 +1,6 @@
 import Ember from 'ember';
 import layout from '../templates/components/fill-murray';
+import fillMurray from 'ember-cli-fill-murray/components/fill-murray';
 
 export default Ember.Component.extend({
   layout: layout,
