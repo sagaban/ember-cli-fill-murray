@@ -1,25 +1,15 @@
 # Ember-cli-fill-murray
 
-This README outlines the details of collaborating on this Ember addon.
+Ember addon to work with borrowrs project. From ember101 book
 
 ## Installation
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
+This project is not mean to be run standalone. It is a dependencie from borrowers project.
+It can be installed by:
 
-## Running
+```$ ember install ember-cli-fill-murray-sagaban ```
 
-* `ember server`
-* Visit your app at http://localhost:4200.
+## Compiled Package
 
-## Running Tests
+* `https://www.npmjs.com/package/ember-cli-fill-murray-sagaban`
 
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
