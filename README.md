@@ -11,5 +11,5 @@ It can be installed by:
 
 ## Compiled Package
 
-* `https://www.npmjs.com/package/ember-cli-fill-murray-sagaban`
+* [https://www.npmjs.com/package/ember-cli-fill-murray-sagaban]
 
